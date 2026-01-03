@@ -161,8 +161,8 @@ Empower Admins with advanced booking controls:
 
 ## Connect
 
-* GitHub: [https://github.com/Renuka-de](https://github.com/Renuka-de)
-* LinkedIn: [www.linkedin.com/in/renukadeviac](https://www.linkedin.com/in/renukadeviac/)
+* GitHub: [[https://github.com/Kirupa-25](https://github.com/Kirupa-25)
+
 
 
 
